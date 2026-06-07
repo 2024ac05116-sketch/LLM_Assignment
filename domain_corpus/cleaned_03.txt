@@ -1,0 +1,7 @@
+[Page 1]
+Medical Research Notes on Immunology
+This document explores immune pathway activation, cytokine signaling, and vaccine response.
+It includes definitions of innate and adaptive immunity, antigen presentation, and clinical
+implications.
+Research highlights cover autoimmune disease risk factors and immunotherapy strategies.
+
