@@ -1,7 +1,7 @@
 [Page 1]
-Medical Research Notes on Immunology
-This document explores immune pathway activation, cytokine signaling, and vaccine response.
-It includes definitions of innate and adaptive immunity, antigen presentation, and clinical
-implications.
-Research highlights cover autoimmune disease risk factors and immunotherapy strategies.
+Diabetes Mellitus Management and Epidemiology
+This paper covers type 1 and type 2 diabetes epidemiology, glucose regulation, and treatment
+options.
+Clinical notes describe insulin therapy, diet modifications, and long-term complication prevention.
+Population statistics, risk factors, and comorbidity guidance are included.
 

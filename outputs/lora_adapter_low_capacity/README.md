@@ -38,6 +38,7 @@ This model was trained with SFT.
 
 ### Framework versions
 
+- PEFT 0.13.2
 - PEFT 0.19.1
 - TRL: 1.5.1
 - Transformers: 5.0.0

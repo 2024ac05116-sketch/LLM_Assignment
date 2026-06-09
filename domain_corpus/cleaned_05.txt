@@ -1,7 +1,7 @@
 [Page 1]
-Clinical Guidelines for Hypertension
-This document provides clinical guidelines for the diagnosis and management of hypertension.
-Recommendations include lifestyle changes, first-line antihypertensive therapy, and follow-up care
-monitoring.
-Key terms: blood pressure, systolic, diastolic, ACE inhibitors, beta-blockers.
+Medical Research Notes on Immunology
+This document explores immune pathway activation, cytokine signaling, and vaccine response.
+It includes definitions of innate and adaptive immunity, antigen presentation, and clinical
+implications.
+Research highlights cover autoimmune disease risk factors and immunotherapy strategies.
 

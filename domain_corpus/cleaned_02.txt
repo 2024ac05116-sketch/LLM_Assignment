@@ -1,7 +1,7 @@
 [Page 1]
-Diabetes Mellitus Management and Epidemiology
-This paper covers type 1 and type 2 diabetes epidemiology, glucose regulation, and treatment
-options.
-Clinical notes describe insulin therapy, diet modifications, and long-term complication prevention.
-Population statistics, risk factors, and comorbidity guidance are included.
+COVID-19 Treatment Protocol Overview
+This report summarizes approved COVID-19 treatments, including antiviral therapy and supportive
+care.
+It reviews patient stratification criteria, dosing, and monitoring for adverse reactions.
+Evidence sources include recent randomized controlled trials and emergency use authorizations.
 

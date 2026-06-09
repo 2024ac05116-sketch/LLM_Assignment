@@ -1,4 +1,4 @@
 Configuration,Peak VRAM (GB),Throughput (tok/s),Cost / 1M tokens (₹)
-bfloat16 (Baseline),14.77,20.25,48.01
-4-bit NF4,6.67,10.34,93.98
-4-bit + Speculative,6.70,5.72,169.95
+bfloat16 (Baseline),10.73,47.70,69.87
+4-bit NF4,8.58,16.85,197.88
+4-bit + Speculative,11.79,17.47,190.78

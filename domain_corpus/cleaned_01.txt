@@ -1,7 +1,7 @@
 [Page 1]
-COVID-19 Treatment Protocol Overview
-This report summarizes approved COVID-19 treatments, including antiviral therapy and supportive
-care.
-It reviews patient stratification criteria, dosing, and monitoring for adverse reactions.
-Evidence sources include recent randomized controlled trials and emergency use authorizations.
+Clinical Guidelines for Hypertension
+This document provides clinical guidelines for the diagnosis and management of hypertension.
+Recommendations include lifestyle changes, first-line antihypertensive therapy, and follow-up care
+monitoring.
+Key terms: blood pressure, systolic, diastolic, ACE inhibitors, beta-blockers.
 
